@@ -1,0 +1,17 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Binaries
+*/Intermediate
+*/Saved
+*/DerivedDataCache
+*_BuildData.uasset
+BuildingEscape/Content/StarterContent
+BuildingEscape/Content/StarterContent/Textures
+BuildingEscape/Content/StarterContent/HDRI
+
+######################
+# VS Generated Files #
+######################
+*.db
+BuildingEscape/.vs/
